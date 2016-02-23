@@ -1,0 +1,18 @@
+PODS:
+  - ASStarRatingView (0.1.0)
+  - ECSlidingViewController (2.0.3)
+  - Mantle (2.0):
+    - Mantle/extobjc (= 2.0)
+  - Mantle/extobjc (2.0)
+
+DEPENDENCIES:
+  - ASStarRatingView (~> 0.1.0)
+  - ECSlidingViewController (~> 2.0.3)
+  - Mantle (~> 2.0)
+
+SPEC CHECKSUMS:
+  ASStarRatingView: 7e0d0228c74afeb6d5af4f5ee90e3e3f5de8ef79
+  ECSlidingViewController: 6485c14f23b4487e9946535421ca8f111f86cc53
+  Mantle: 17de73ef929db2234d76fde2aacfb89ab11c61e8
+
+COCOAPODS: 0.36.4

@@ -1,0 +1,13 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '7.0'
+
+target 'OrderDelivery' do
+pod 'Mantle', '~> 2.0'
+pod 'ECSlidingViewController', '~> 2.0.3'
+pod 'ASStarRatingView', '~> 0.1.0'
+end
+
+target 'OrderDeliveryTests' do
+
+end
+

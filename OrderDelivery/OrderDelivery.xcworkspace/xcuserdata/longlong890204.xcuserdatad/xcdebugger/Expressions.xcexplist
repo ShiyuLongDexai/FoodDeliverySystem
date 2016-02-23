@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__42-[CustomerNewUserViewController saveUser:]_block_invoke:CustomerNewUserViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "appService">
+            </PersistentString>
+            <PersistentString
+               value = "[responseDict valueForKey:@&quot;status&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CustomerNewUserViewController saveUser:]:CustomerNewUserViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "appService">
+            </PersistentString>
+            <PersistentString
+               value = "[self.email.text length]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TransactionDetailViewController textFieldDidChange:]:TransactionDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cusmenuVC.cart">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CheckOutTableViewController prepareForSegue:sender:]:CheckOutTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "oi.dish">
+            </PersistentString>
+            <PersistentString
+               value = "cart">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TransactionDetailViewController viewDidLoad]:TransactionDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[cart.totalPrice doubleValue]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__29-[LoginViewController login:]_block_invoke:LoginViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cusmenuVC.customer.address.identity">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[Helper sendJson:url:]:Helper.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ResDetailViewController viewDidLoad]:ResDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "restaurant.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CusHomeTableViewController tableView:didSelectRowAtIndexPath:]:CusHomeTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "restaurant.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[OrderTableViewController viewDidLoad]:OrderTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.orderTable.scrollEnabled ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LoginViewController login:]:LoginViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[response valueForKey:@&quot;errorMessage&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[CusHomeTableViewController searchBar:textDidChange:]:CusHomeTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[RestaurantOrderMenuTableViewController tableView:didSelectRowAtIndexPath:]:RestaurantOrderMenuTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ResMenuTableViewController viewDidLoad]:ResMenuTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "username">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ResMenuDetailViewController addFood:]:ResMenuDetailViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__23+[Helper sendJson:url:]_block_invoke:Helper.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MenuViewController viewDidLoad]:MenuViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "username">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[Helper getJsonDic:]:Helper.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ResDetailViewController prepareForSegue:sender:]:ResDetailViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController simpleJsonParsing]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "r.address.city">
+            </PersistentString>
+            <PersistentString
+               value = "rl[0].user">
+            </PersistentString>
+            <PersistentString
+               value = "r.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__39+[RestaurantReview dateJSONTransformer]_block_invoke:RestaurantReview.m">
+      </ContextState>
+      <ContextState
+         contextName = "MTLSelectorWithKeyPattern:MTLReflection.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[RestaurantOrderMenuTableViewController viewDidLoad]:RestaurantOrderMenuTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[OrderTableViewController SegmentChangeViewValueChanged:]:OrderTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CusHomeTableViewController viewDidLoad]:CusHomeTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "rl">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ShoppingCartTableViewController viewDidAppear:]:ShoppingCartTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ResDetailViewController tableView:cellForRowAtIndexPath:]:ResDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[dateFormatter stringFromDate:resReview.date]">
+            </PersistentString>
+            <PersistentString
+               value = "resReview.date">
+            </PersistentString>
+            <PersistentString
+               value = "[NSDate date]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
